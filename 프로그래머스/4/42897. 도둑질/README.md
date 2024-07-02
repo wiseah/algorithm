@@ -49,4 +49,10 @@
 </tbody>
       </table>
 
+# ⭐️ 원형 DP를 푸는 방법
+📍 level3의 스티커모으기(2)와 동일 <br/>
+1. 원형 조건을 제거한 상태에서 DP의 점화식 이끌기
+2. 원형 조건은 2가지 케이스로 분리해서 DP 연산을 각 케이스마다 돌리고 결과 반영 
+
+
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
