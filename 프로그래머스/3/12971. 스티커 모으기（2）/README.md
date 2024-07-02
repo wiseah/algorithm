@@ -61,5 +61,10 @@
 <p>입출력 예 #2<br>
 3, 5가 적힌 스티커를 떼어 냈을 때 8로 최대가 됩니다.</p>
 
+# ⭐️ 원형 DP를 푸는 방법
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+1. 원형 조건을 제거한 상태에서 DP의 점화식 이끌기
+2. 원형 조건은 2가지 케이스로 분리해서 DP 연산을 각 케이스마다 돌리고 결과 반영
+
+> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges <br/>
+> 참고한 블로그: https://hoons-dev.tistory.com/84
